@@ -1,0 +1,2 @@
+AmountOfCredits=1
+NumOfCredits=2
